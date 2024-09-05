@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Variable
+comment0.text=\n\ The\ Variable\ class\ is\ involved\ in\ the\ process\ of\ creating\n\ and\ instantiating\ variables\n\n\ @author\ Emily\ Kwan\n\ @version\ 10/10/23\n
+comment1.params=name
+comment1.target=Variable(java.lang.String)
+comment1.text=\n\ Creates\ objects\ of\ the\ Variable\ class\n\ @param\ name\ the\ name\ of\ the\ variable\n
+comment2.params=env
+comment2.target=int\ eval(environment.Environment)
+comment2.text=\n\ Evaluates\ objects\ of\ the\ Variable\ class\ by\ returning\n\ its\ value\ within\ the\ given\ environment\n\ \n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ evaluate\ code\n\ @return\ the\ value\ of\ the\ variable\n\n
+numComments=3

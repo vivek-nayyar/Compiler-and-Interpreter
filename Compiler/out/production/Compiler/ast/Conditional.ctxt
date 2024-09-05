@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Conditional
+comment0.text=\n\ The\ Conditional\ class\ contains\ instructions\ on\ how\ to\ evaluate\ expressions\n\ that\ contain\ a\ conditional\ operand\ between\ a\ left\ and\ right\ expression.\n\ This\ class\ returns\ a\ 1\ for\ true\ and\ 0\ for\ false\ once\ the\ exp.\ is\ evaluated.\n\ @author\ Emily\ Kwan\n\ @version\ 10/25/23\n
+comment1.params=operator\ left1\ right1
+comment1.target=Conditional(java.lang.String,\ Expression,\ Expression)
+comment1.text=\n\ Constructs\ objects\ of\ the\ Conditional\ class\n\ @param\ operator\ the\ operator\ the\ expressions\ will\ be\ evaluated\ with\n\ @param\ left1\ the\ expression\ left\ of\ the\ operator\n\ @param\ right1\ the\ expression\ right\ of\ the\ operator\n
+comment2.params=env
+comment2.target=int\ eval(environment.Environment)
+comment2.text=\n\ Evaluates\ expressions\ containing\ relative\ operators\ using\ boolean\ logic\n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ evaluate\ code\n\ @return\ 0\ or\ 1;\ 0\ when\ expression\ is\ evaluated\ to\ be\ false,\ and\ 1\ when\ evaluated\ to\ be\ true\n
+numComments=3

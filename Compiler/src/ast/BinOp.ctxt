@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BinOp
+comment0.text=\n\ The\ BinOp\ class\ represents\ arithmetic\ expressions\n\ that\ implement\ a\ binary\ operator\ and\ two\ expresssions,\n\ one\ on\ the\ left,\ one\ on\ the\ right.\ The\ expression\ is\ then\n\ evaluated\ to\ form\ a\ product,\ quotient,\ sum,\ difference,\ etc.\n\ \n\ @author\ Emily\ Kwan\n\ @version\ 10/25/23\n
+comment1.params=operand\ left\ right
+comment1.target=BinOp(java.lang.String,\ Expression,\ Expression)
+comment1.text=\n\ Constructs\ objects\ of\ the\ \ BinOp\ class\n\ @param\ operand\ the\ operator\ the\ expressions\ will\ be\ evaluated\ with\n\ @param\ left\ the\ expression\ left\ of\ the\ operator\n\ @param\ right\ the\ expression\ right\ of\ the\ operator\n
+comment2.params=env
+comment2.target=int\ eval(environment.Environment)
+comment2.text=\n\ Evaluates\ an\ expression\ that\ contains\ a\ binary\ operator\ between\ a\ left\n\ and\ right\ expression\n\ @return\ the\ quotient,\ product,\ sum,\ difference,\ etc.\ (the\ value\ of\ the\ evaluated\ arithmetic)\n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ evaluate\ code\n
+numComments=3

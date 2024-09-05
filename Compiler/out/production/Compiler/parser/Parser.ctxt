@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\n\ The\ Parser\ class\ parses\ statements,\ factors,\ expressions,\ and\ numbers.\n\ Assigned\ variables\ are\ stored\ in\ a\ Map\ with\ String\ keys\ and\ Integers\ values.\n\n\ @author\ Emily\ Kwan\n\ @version\ 10/4/23\n
+comment1.params=scanner
+comment1.target=Parser(scanner.Scanner)
+comment1.text=\n\ Constructs\ parser\ based\ on\ the\ given\ scanner\n\ \n\ @param\ scanner\ the\ given\ scanner\n
+comment2.params=expected
+comment2.target=void\ eat(java.lang.String)
+comment2.text=\n\ Consumes\ the\ next\ token\ after\ checking\ if\ the\ current\ token\ matches\ the\ next\n\ \n\ @param\ expected\ the\ expected\ token\n\ \n
+comment3.params=
+comment3.target=int\ parseNumber()
+comment3.text=\n\ Parses\ a\ number\n\ \n\ @return\ the\ number\ parsed\n
+comment4.params=
+comment4.target=void\ parseStatement()
+comment4.text=\n\ Parses\ statements\ with\ WRITELN,\ BEGIN,\ END,\ and\ EOF\ tokens\n\n
+comment5.params=
+comment5.target=int\ parseFactor()
+comment5.text=\n\ Parses\ expressions\ based\ on\ the\ specified\ factor\ grammar\n\ \n\ @return\ the\ parsed\ factor\n
+comment6.params=
+comment6.target=int\ parseTerm()
+comment6.text=\n\ Parses\ a\ factor\ that\ is\ divided\ or\ multiplied\n\ \n\ @return\ the\ parsed\ factor\n
+comment7.params=
+comment7.target=int\ parseExpression()
+comment7.text=\n\ Parses\ a\ term\ that\ is\ subtracted\ or\ added\n\ \n\ @return\ the\ parsed\ term\n
+numComments=8

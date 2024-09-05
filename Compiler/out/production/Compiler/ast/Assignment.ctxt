@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Assignment
+comment0.text=\n\ Represents\ a\ subclass\ of\ statement\ in\ which\ a\ variable\n\ is\ assigned\ to\ an\ expression\ in\ the\ given\ environment\n\n\ @author\ Emily\ Kwan\n\ @version\ 10/25/23\n
+comment1.params=variable\ expression
+comment1.target=Assignment(java.lang.String,\ Expression)
+comment1.text=\n\ Constructs\ objects\ of\ the\ class\ Assignment\n\ \n\ @param\ variable\ the\ variable\ to\ get\ assigned\ a\ value\n\ @param\ expression\ the\ expression\ assigned\ to\ the\ given\ variable\n
+comment2.params=env
+comment2.target=void\ exec(environment.Environment)
+comment2.text=\n\ Executes\ objects\ of\ the\ Assignment\ cless\ by\ setting\n\ the\ value\ of\ the\ variable\ to\ the\ given\ expression\n\ in\ the\ given\ environment\n\ \n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ execute\ code\n
+numComments=3

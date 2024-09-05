@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Statement
+comment0.text=\n\ Statement\ class\ is\ the\ abstract\ class\ representing\n\ all\ statements\ that\ are\ used\ in\ executing\ code\n\n\ @author\ Emily\ Kwan\n\ @version\ 10/10/23\n
+comment1.params=env
+comment1.target=void\ exec(environment.Environment)
+comment1.text=\n\ Provides\ subclasses\ with\ a\ type\ of\ template\ \n\ on\ how\ they\ will\ instruct\ themselves\n\ \n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ execute\ code\n
+numComments=2

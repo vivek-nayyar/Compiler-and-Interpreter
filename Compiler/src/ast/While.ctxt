@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=While
+comment0.text=\n\ The\ While\ class\ contains\ instructions\ on\ how\ the\ compiler\ should\n\ handle\ "while"\ loop\ statements\n\ \n\ @author\ Emily\ Kwan\n\ @version\ 10/25/23\n
+comment1.params=c\ s1
+comment1.target=While(Conditional,\ Statement)
+comment1.text=\n\ Constructs\ objects\ of\ the\ While\ class\ when\ \n\ given\ 1\ condition\ and\ 1\ statement\n\ @param\ c\ the\ conditional\ expression\ to\ be\ executed\n\ @param\ s1\ the\ first\ statement\ to\ be\ executed\ if\ conditional\ is\ true\n
+comment2.params=env
+comment2.target=void\ exec(environment.Environment)
+comment2.text=\n\ Executes\ the\ while\ loop\n\ Checks\ if\ the\ condition\ is\ true,\ then\n\ executes\ the\ statement\ until\ the\ condition\n\ is\ no\ longer\ met\n\ \n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ execute\ code\n\n
+numComments=3

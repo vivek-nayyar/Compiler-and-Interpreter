@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Expression
+comment0.text=\n\ Expression\ class\ is\ the\ abstract\ class\ representing\n\ all\ expressions\ that\ are\ used\ in\ executing\ code\ (arithmetic\n\ and\ other\ mathematical\ operations)\n\n\ @author\ Emily\ Kwan\n\ @version\ 10/10/23\n
+comment1.params=env
+comment1.target=int\ eval(environment.Environment)
+comment1.text=\n\ Provides\ subclasses\ with\ a\ type\ of\ template\ \n\ on\ how\ they\ will\ evaluate\ themselves\n\ \n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ evaluate\ code\n\ @return\ the\ value\ of\ the\ given\ object\ of\ the\ particular\ subclass\n
+numComments=2

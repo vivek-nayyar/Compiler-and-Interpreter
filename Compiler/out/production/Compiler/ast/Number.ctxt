@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Number
+comment0.text=\n\ The\ Number\ class\ represents\ numbers\ within\ arithmetic\ expressions\n\n\ @author\ Emily\ Kwan\n\ @version\ 10/25/23\n
+comment1.params=num
+comment1.target=Number(int)
+comment1.text=\n\ Constructs\ objects\ of\ the\ Number\ class\n\ @param\ num\ the\ number\ to\ be\ represented\n
+comment2.params=env
+comment2.target=int\ eval(environment.Environment)
+comment2.text=\n\ Evaluates\ the\ given\ number\ by\ returning\ its\ value\n\ \n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ evaluate\ code\n\ @return\ the\ value\ of\ the\ number\n
+numComments=3

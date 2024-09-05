@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Block
+comment0.text=\n\ The\ Block\ class\ groups\ multiple\ statements\ together\ so\ that\ they\n\ can\ be\ executed\ together\n\n\ @author\ Emily\ Kwan\n\ @version\ 10/25/23\n
+comment1.params=statements
+comment1.target=Block(java.util.ArrayList)
+comment1.text=\n\ Constructs\ Block\ objects\n\ @param\ statements\ the\ list\ of\ statements\ within\ the\ block\n
+comment2.params=env
+comment2.target=void\ exec(environment.Environment)
+comment2.text=\n\ Executes\ the\ whole\ block\ by\ going\ through\n\ \ each\ statement\ in\ the\ list\ (block)\n\ \n\ @param\ env\ the\ environment\ in\ which\ the\ classes\ execute\ code\n\n
+numComments=3

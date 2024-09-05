@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ParserTester
+comment0.text=\n\ Tests\ the\ scanner.Scanner\ class\ via\ test\ files\n\ @author\ Emily\ Kwan\n\ @version\ 08/31/2023\n
+comment1.params=str
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Tests\ the\ scanner.Scanner\ using\ "ScannerText.txt"\ file\n\ @param\ str\ array\ of\ String\ objects\n\ @throws\ FileNotFoundException\ if\ there\ is\ an\ I/O\ error\n\ @throws\ ScanErrorException\ if\ an\ token\ is\ invalid\n
+numComments=2

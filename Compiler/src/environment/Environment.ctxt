@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Environment
+comment0.text=\n\ The\ Environment\ class\ creates\ environments\ that\ contains\ instructions\n\ for\ how\ code\ should\ be\ evaluated/executed\n\n\ @author\ Emily\ Kwan\n\ @version\ 10/25/23\n
+comment1.params=
+comment1.target=Environment()
+comment1.text=\n\ Constructs\ objects\ of\ the\ Environment\ class\n
+comment2.params=variable\ value
+comment2.target=void\ setVariable(java.lang.String,\ int)
+comment2.text=\n\ Adds\ variable\ to\ the\ environment\ (map)\ if\ it\ isn't\ contained\n\ already\n\ @param\ variable\ the\ variable\ to\ be\ stored\n\ @param\ value\ the\ value\ to\ be\ stored\ by\ the\ variable\n
+comment3.params=variable
+comment3.target=int\ getVariable(java.lang.String)
+comment3.text=\n\ Returns\ the\ value\ or\ the\ variable\ if\ it\ is\ contained\ within\ the\n\ environment/map.\ If\ the\ variable\ is\ not\ within\ the\ env/map,\ it\ is\n\ created\ with\ the\ value\ of\ 0.\n\ \n\ @param\ variable\ the\ name\ of\ the\ variable\ that\ is\ searched\ for\ in\ the\ map\n\ @return\ the\ value\ of\ the\ variable\n
+numComments=4
